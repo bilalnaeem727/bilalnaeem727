@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFI3Gy_]4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5SOE=n5z-gDvzZPdovK7oorksu-JESwk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm bilalnaeem727</h1>
 <h3 align="center">A web developer in Pakistan </h3>
 <img align="right" alt="Coding" widht="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MvB9zAKBAD13XosDfaQZklO4xnGJ02b9LQ&s">
